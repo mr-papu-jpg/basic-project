@@ -4,7 +4,7 @@
 
 *Fastapi basic project* in which all types of basic HTTP functions will be put into practice, and the creation of a common API will be put into practice, for now it does not have much, but as I am practicing and learning I am going to add things to this project.
 
-*17/01/2026*: It has been updated and new basic CRUD functions have been added.
+* *17/01/2026*: It has been updated and new basic CRUD functions have been added.
 
 ## Bookstores and Farmworks:
 
