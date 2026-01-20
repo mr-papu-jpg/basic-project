@@ -6,6 +6,8 @@
 
 * *17/01/2026*: It has been updated and new basic CRUD functions have been added.
 
+* *18/01/2026*: Added the practice of route functionalities using APIrouter.
+
 ## Bookstores and Farmworks:
 
 * FastAPI. 
@@ -45,6 +47,6 @@ http DELETE :8000/heroes/1
 
 *(there will be when the project is larger and more presentable and complex)*
 
-## UPDATE: 16/01/1026 1:23 am venezuela.
+## UPDATE: 19/01/1026 10:15 pm venezuela.
 
 ### All made from Termux 
